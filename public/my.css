@@ -1,0 +1,33 @@
+
+#weather{
+    box-shadow: 10px 10px 15px 2px lightblue;
+    margin-top: 0px;
+    display: inline-flex;
+    justify-content:space-between;
+    margin-left: 4rem;
+    background-color: #1fd1f9;
+background-image: linear-gradient(315deg, #1fd1f9 0%, #b621fe 74%);
+vertical-align: center;
+padding: 1rem;
+
+
+}
+h1{
+    font-family: Lobster;
+}
+img{
+    width: 50px;
+}
+
+.icon{
+    display: inline-flex;
+    
+}
+.card{
+    opacity: 85%;
+    width: 18rem;
+    height: 5rem;
+    border-radius: 10px !important;
+    background-color: #d9e4f5;
+background-image: linear-gradient(315deg, #d9e4f5 0%, #f5e3e6 74%);
+}
